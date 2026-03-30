@@ -56,3 +56,4 @@ flowchart TD
 ```
 
 ### Prompts
+"Write a Python version of View My Schedule for students to See all currently enrolled courses + total credits"
